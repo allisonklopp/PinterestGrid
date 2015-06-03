@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PinterestGrid</string>
+    <string name="enter_username_instruction">Enter Pinterest username:</string>
+    <string name="action_settings">Settings</string>
+    <string name ="reload_button">Reload</string>
+    <string name ="default_username">etsy</string>
+</resources>
